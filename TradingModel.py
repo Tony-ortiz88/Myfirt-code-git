@@ -9,6 +9,8 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 from Binance import Binance
 from tabulate import tabulate
+
+
 import datetime
 
 
